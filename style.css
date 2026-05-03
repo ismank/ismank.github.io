@@ -5,53 +5,106 @@ body {
   color: #eaeaea;
 }
 
-/* HEADER */
-header {
-  text-align: center;
-  padding: 80px 20px;
-  border-bottom: 1px solid #222;
+/* NAVBAR */
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: rgba(13,13,13,0.85);
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10%;
+  z-index: 1000;
 }
 
-header h1 {
-  font-size: 40px;
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+nav a {
+  color: #aaa;
+  text-decoration: none;
+}
+
+/* HERO */
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 10%;
+}
+
+.hero h1 {
+  font-size: 60px;
   margin-bottom: 10px;
 }
 
-.links a {
-  margin: 0 10px;
+.cta {
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background: white;
+  color: black;
+  margin-right: 10px;
   text-decoration: none;
-  color: #aaa;
+  border-radius: 5px;
+}
+
+.btn.outline {
+  background: transparent;
+  border: 1px solid white;
+  color: white;
 }
 
 /* SECTIONS */
 section {
-  padding: 60px 10%;
-  border-bottom: 1px solid #1a1a1a;
+  padding: 80px 10%;
+  border-top: 1px solid #1a1a1a;
 }
 
 h2 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  font-size: 28px;
 }
 
-/* STACK */
-.grid {
+/* PROJECT */
+.project-card {
   display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
+  gap: 30px;
+  align-items: center;
 }
 
-.grid span {
-  padding: 8px 15px;
-  border: 1px solid #333;
-  border-radius: 20px;
+.project-card img {
+  width: 400px;
+  border-radius: 10px;
+}
+
+.project-card .content {
+  max-width: 500px;
+}
+
+.result {
+  margin-top: 10px;
+  color: #aaa;
 }
 
 /* CARDS */
+.cards {
+  display: flex;
+  gap: 20px;
+}
+
 .card {
   background: #141414;
   padding: 20px;
-  margin-top: 20px;
   border-radius: 10px;
+  flex: 1;
   transition: 0.3s;
 }
 
@@ -59,13 +112,10 @@ h2 {
   transform: translateY(-5px);
 }
 
-/* IMAGE */
-.project img {
-  width: 100%;
-  max-width: 600px;
-  display: block;
-  margin: 20px auto;
-  border-radius: 10px;
+/* CONTACT */
+.links a {
+  margin-right: 15px;
+  color: #aaa;
 }
 
 /* FOOTER */
