@@ -1,38 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2c2c2c&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header"/>
 </p>
 
 # Ismael Ouanouki
 
-Étudiant en BUT Informatique à l’IUT d’Orsay, parcours développement, je suis actuellement à la recherche d’une alternance à partir de septembre 2026 (2 jours par semaine sur 24 mois).
+Étudiant en BUT Informatique (parcours développement), je recherche une alternance à partir de septembre 2026.  
+Je m’intéresse particulièrement au développement logiciel et aux projets concrets qui demandent rigueur, logique et collaboration.
 
-Je m’intéresse particulièrement au développement logiciel et à la conception de projets concrets. À travers ma formation et mes expériences, j’ai appris à travailler avec rigueur, à m’adapter rapidement à de nouveaux environnements et à collaborer efficacement en équipe. Mon objectif est aujourd’hui de continuer à progresser techniquement tout en apportant une contribution utile en entreprise.
+---
 
-<p>
-  <a href="https://github.com/ismank">
-    <img src="https://img.shields.io/badge/github-ismank-111?style=flat&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/ismaelnk/">
-    <img src="https://img.shields.io/badge/linkedin-ismaelnk-0A66C2?style=flat&logo=linkedin">
-  </a>
-</p>
+## Profil
+
+Au cours de ma formation et de mes expériences, j’ai appris à travailler dans des environnements exigeants où l’organisation et la précision sont essentielles.  
+Je développe progressivement ma capacité à concevoir des solutions techniques, à corriger des erreurs et à structurer un projet de manière efficace.
 
 ---
 
 ## Compétences
 
-<p style="background-color:#161b22; padding:15px; border-radius:8px">
-
-**Langages**  
-C++, HTML, CSS, JavaScript, SQL, notions en assembleur  
-
-**Outils et environnement**  
-Git / GitHub, Visual Studio Code, outils collaboratifs (Teams, Google Workspace)  
-
-**Méthodologie**  
-Travail en équipe, organisation, gestion des priorités, capacité d’adaptation  
-
-</p>
+| Domaine | Détails |
+|--------|--------|
+| **Langages** | C++, HTML, CSS, JavaScript, SQL |
+| **Outils** | Git, GitHub, VS Code, Teams |
+| **Méthodes** | Travail en équipe, organisation, autonomie |
 
 ---
 
@@ -41,59 +31,69 @@ Travail en équipe, organisation, gestion des priorités, capacité d’adaptati
 ### Jeu vidéo 2D en C++
 
 <p align="center">
-  <img src="./assets/game.png" width="550">
+  <img src="./assets/game.png" width="500">
 </p>
 
-<p style="background-color:#161b22; padding:15px; border-radius:8px">
+**Situation**  
+Projet réalisé en BUT Informatique avec pour objectif de développer un jeu fonctionnel en C++.
 
-Ce projet a été réalisé dans le cadre de ma formation en BUT Informatique. L’objectif était de concevoir un jeu d’aventure en 2D en implémentant les différentes mécaniques de gameplay.
+**Tâche**  
+Concevoir les mécaniques de gameplay et assurer le bon fonctionnement global du jeu.
 
-J’ai participé au développement des fonctionnalités principales, notamment la logique du jeu et la gestion des interactions. Ce travail a été réalisé en binôme, ce qui m’a permis de renforcer mes compétences en collaboration, en organisation du travail et en correction d’erreurs.
+**Actions**  
+- Implémentation de la logique du jeu  
+- Gestion des interactions entre éléments  
+- Travail en binôme (tests, debug, amélioration)
 
-Ce projet représente une première expérience concrète en développement logiciel structuré.
-
-</p>
+**Résultat**  
+Un projet fonctionnel qui m’a permis de renforcer mes compétences en programmation, en résolution de problèmes et en collaboration.
 
 ---
 
 ## Expériences
 
-<p style="background-color:#161b22; padding:15px; border-radius:8px">
+### Trésorerie Essonne Amendes — 2025
 
-**Trésorerie Essonne Amendes — 2025**  
-Gestion et traitement de dossiers administratifs, analyse et orientation des demandes, utilisation d’outils internes. Cette expérience m’a permis de développer ma rigueur, mon organisation et mon autonomie dans un environnement exigeant.
+**Situation**  
+Travail dans un environnement administratif avec un volume important de demandes.
 
-<br>
+**Actions**  
+- Traitement et suivi de dossiers  
+- Gestion des mails professionnels  
+- Organisation des priorités  
 
-**Crash Mobile — Stage (2022)**  
-Accueil des clients, assistance aux réparations de smartphones et gestion de commandes en ligne. J’y ai développé mon sens du service, ma réactivité et mes compétences numériques.
+**Résultat**  
+Développement d’une forte rigueur, autonomie et capacité à travailler efficacement sous contrainte.
 
-</p>
+---
+
+### Crash Mobile — Stage 2022
+
+**Actions principales**
+- Accueil et relation client  
+- Assistance technique (smartphones)  
+- Gestion des commandes  
+
+**Apports**  
+Amélioration du sens du service et de la réactivité.
 
 ---
 
 ## Formation
 
-<p style="background-color:#161b22; padding:15px; border-radius:8px">
-
-BUT Informatique — IUT d’Orsay (parcours développement)  
-Baccalauréat Général — Mention Bien  
-Spécialités : Mathématiques, Physique-Chimie  
-
-</p>
+- BUT Informatique — IUT Orsay  
+- Bac Général — Mention Bien (Maths / Physique-Chimie)
 
 ---
 
 ## Contact
 
-<p style="background-color:#161b22; padding:15px; border-radius:8px">
-
-ismael.ouaonouki@icloud.com  
-
-</p>
+- ismael.ouaonouki@icloud.com  
+- https://github.com/ismank  
+- https://www.linkedin.com/in/ismaelnk/  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:0f0f0f&height=100&section=footer"/>
+  <sub>Disponible pour une alternance dès septembre 2026</sub>
 </p>
