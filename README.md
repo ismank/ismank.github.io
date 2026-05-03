@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header"/>
 </p>
 
-# Ismael Ouanouki
 
 Étudiant en BUT Informatique (parcours développement), je recherche une alternance à partir de septembre 2026.  
 Je m’intéresse particulièrement au développement logiciel et aux projets concrets qui demandent rigueur, logique et collaboration.
