@@ -858,7 +858,15 @@ section {
 .hobby-icon {
   font-size: 36px;
   margin-bottom: 16px;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.hobby-icon img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
 }
 
 .hobby-card h3 {
